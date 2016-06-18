@@ -1,0 +1,10 @@
+[package]
+name = "cuneifind"
+version = "0.1.0"
+authors = ["petersme <mpetersen389@gmail.com>"]
+
+[dependencies]
+
+regex = "0.1.71"
+edit-distance = "1.0.0"
+conrod = "0.36.1"
